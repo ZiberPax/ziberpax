@@ -1,6 +1,8 @@
 # Alexey Meshin 
 
 ---
+[CV](https://ziberpax.github.io/rsschool-cv/cv/index.html)
+---
 
 ### Contacts:
 * Discord: AlexeyM#7429
