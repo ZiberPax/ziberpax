@@ -53,5 +53,10 @@ RS School JS/FE Pre-School 2022Q2
 
 --- 
 
+### Projects:
+[Shelter](https://rolling-scopes-school.github.io/ziberpax-JSFE2023Q1/shelter/pages/main/index.html)
+
+--- 
+
 [Сambridgeenglish.org.ru](https://www.cambridgeenglish.org.ru/test-your-english) English level - B1
 
