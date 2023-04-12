@@ -54,7 +54,14 @@ RS School JS/FE Pre-School 2022Q2
 --- 
 
 ### Projects:
-[Shelter](https://rolling-scopes-school.github.io/ziberpax-JSFE2023Q1/shelter/pages/main/index.html)
+[Shelter (03.2023)](https://rolling-scopes-school.github.io/ziberpax-JSFE2023Q1/shelter/pages/main/index.html) | 
+[CSS Bayan (02.2023)](https://ziberpax.github.io/cssBayan/cssBayan/) | 
+[Momentum (01.2023)](https://rolling-scopes-school.github.io/ziberpax-JSFEPRESCHOOL2022Q4/momentum/pages/index.html) | 
+[Songbird (11.2022)](https://rolling-scopes-school.github.io/ziberpax-JSFE2022Q3/songbird/main.html) | 
+[Online Zoo (09.2022)](https://rolling-scopes-school.github.io/ziberpax-JSFE2022Q3/online-zoo/pages/main/) | 
+[Codejam Eldritch (08.2022)](https://ziberpax.github.io/codejam-eldritch/codejam-eldritch/) | 
+[Travel (07.2022)](https://rolling-scopes-school.github.io/ziberpax-JSFEPRESCHOOL2022Q2/travel/) | 
+
 
 --- 
 
