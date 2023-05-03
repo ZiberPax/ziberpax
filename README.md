@@ -50,10 +50,14 @@ Nothing yet
 
 ### Education and courses:
 RS School JS/FE Pre-School 2022Q2
+RS School JS/FE Stage 1 2022Q3
+RS School JS/FE Pre-School 2022Q4
+RS School JS/FE Stage 1 2023Q2
 
 --- 
 
 ### Projects:
+[RSS Virtual Keyboard (04.2023)](https://ziberpax.github.io/virtual-keyboard/)
 [Shelter (03.2023)](https://rolling-scopes-school.github.io/ziberpax-JSFE2023Q1/shelter/pages/main/index.html) | 
 [CSS Bayan (02.2023)](https://ziberpax.github.io/cssBayan/cssBayan/) | 
 [Momentum (01.2023)](https://rolling-scopes-school.github.io/ziberpax-JSFEPRESCHOOL2022Q4/momentum/pages/index.html) | 
