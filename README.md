@@ -43,7 +43,7 @@ RS School JS/FE Stage2 2023Q3
 --- 
 
 ### Projects:
-[![Minesweeper (05.2023)](https://raw.githubusercontent.com/ZiberPax/repoForData/main/Portfolio/Screenshot_801.png)](https://rolling-scopes-school.github.io/ziberpax-JSFE2023Q1/minesweeper) |
+[Minesweeper (05.2023)](https://rolling-scopes-school.github.io/ziberpax-JSFE2023Q1/minesweeper) |
 [RSS Virtual Keyboard (04.2023)](https://ziberpax.github.io/virtual-keyboard/) |
 [Shelter (03.2023)](https://ziberpax.github.io/portfolio/shelter/pages/main/) | 
 [CSS Bayan (02.2023)](https://ziberpax.github.io/cssBayan/cssBayan/) | 
