@@ -43,6 +43,7 @@ RS School JS/FE Stage2 2023Q3
 --- 
 
 ### Projects:
+[Book Store (API not working) (10.2023)](https://doomstore.vercel.app/) |
 [Minesweeper (05.2023)](https://rolling-scopes-school.github.io/ziberpax-JSFE2023Q1/minesweeper) |
 [RSS Virtual Keyboard (04.2023)](https://ziberpax.github.io/virtual-keyboard/) |
 [Shelter (03.2023)](https://ziberpax.github.io/portfolio/shelter/pages/main/) | 
