@@ -7,6 +7,8 @@
 ### Contacts:
 * Discord: AlexeyM#7429
 ---
+![](https://www.codewars.com/users/ZiberPax/badges/large)
+---
 
 ### About myself:
 My name is Alexey and I am an experienced frontend developer with 1.5 years of education at rsschool. My specialization is creating user interfaces. I have skills in working with Figma designs, pixel-perfect coding, HTML/CSS, TypeScript, SPA, Webpack, Git, and Vite.
