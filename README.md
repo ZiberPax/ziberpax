@@ -29,6 +29,8 @@ Feel free to reach out to me if you are interested in collaborating or discussin
 * Typescript
 * Webpack
 * Vite
+* Docker
+* Playwright
 
 ### Education and courses:
 
