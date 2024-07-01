@@ -6,19 +6,6 @@
 ---
 ![](https://www.codewars.com/users/ZiberPax/badges/large)
 ---
-
-### About myself:
-My name is Alexey and I am an experienced frontend developer with 1.5 years of education at rsschool. My specialization is creating user interfaces. I have skills in working with Figma designs, pixel-perfect coding, HTML/CSS, TypeScript, SPA, Webpack, Git, and Vite.
-
-##### Professional Experience
-I have successfully completed various projects, ranging from website coding to developing SPA e-commerce applications. I have achieved top positions among over 12,000 students.
-
-##### Goals and Ambitions
-My goal is to reach a level where companies seek to have me on their team. I have an engineering degree, but I realized that I can better fulfill my potential in the IT field.
-
-Feel free to reach out to me if you are interested in collaborating or discussing any opportunities.
-
----
 ### Skills
 
 * Html+Css
@@ -31,6 +18,12 @@ Feel free to reach out to me if you are interested in collaborating or discussin
 * Vite
 * Docker
 * Playwright
+* Zustand
+* Postgre
+* SQL
+* Hasura
+* Keycloak
+* Ant design
 
 ### Education and courses:
 
