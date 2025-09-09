@@ -52,6 +52,5 @@ RS School JS/FE Stage2 2023Q3
 [Codewars Profile](https://www.codewars.com/users/ZiberPax)  |
 [JavaScript/Front-end 2023Q1 RS School](https://app.rs.school/certificate/cu4wgjy2)  |
 [Ergosolo Typing Test](https://solo.nabiraem.ru/certs/download/280630/PW-0000002064_EN.pdf)  |
-[JS/FE Pre-School 2022Q2 RS School](https://app.rs.school/certificate/qzaj46gs)  |
-[JS/FE Pre-School 2022Q4 RS School](https://app.rs.school/certificate/k9uewivj)  |
+
 
