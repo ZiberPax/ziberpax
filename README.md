@@ -15,7 +15,6 @@
 * Docker
 * Playwright
 * Zustand
-* Postgre
 * SQL
 * Hasura
 * Keycloak
