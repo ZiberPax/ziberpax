@@ -1,8 +1,4 @@
 # Alexey Meshin 
-
----
-### Contacts:
-* Discord: AlexeyM#7429
 ---
 ![](https://www.codewars.com/users/ZiberPax/badges/large)
 ---
@@ -24,15 +20,9 @@
 * Hasura
 * Keycloak
 * Ant design
-
-### Education and courses:
-
-RS School JS/FE Pre-School 2022Q2  
-RS School JS/FE Stage 1 2022Q3  
-RS School JS/FE Pre-School 2022Q4  
-RS School JS/FE Stage 1 2023Q2  
-RS School JS/FE Stage2 2023Q3  
-
+* n8т
+* Python
+* PostgreSQL
 
 --- 
 
