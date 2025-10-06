@@ -20,7 +20,7 @@
 * Hasura
 * Keycloak
 * Ant design
-* n8т
+* n8n
 * Python
 * PostgreSQL
 
